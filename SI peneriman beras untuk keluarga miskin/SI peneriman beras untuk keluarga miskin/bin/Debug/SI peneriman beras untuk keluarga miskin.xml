@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SIpenerimanberasuntukkeluargamiskin
+</name>
+</assembly>
+<members>
+<member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources._231061764">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources._8a41d8fd092598fd275bba5ba184ce91">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources.images__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SI_peneriman_beras_untuk_keluarga_miskin.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
